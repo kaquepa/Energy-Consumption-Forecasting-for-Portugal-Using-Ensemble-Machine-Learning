@@ -1,0 +1,31 @@
+# Virtual environments
+.venv/
+.venv_api/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+backup/
+
+# History and temporary files
+.history/
+*.swp
+*.swo
+
+

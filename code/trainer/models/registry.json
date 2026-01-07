@@ -1,0 +1,74 @@
+{
+    "horizons": {
+        "h1": {
+            "rmse": 5.487026003979369,
+            "metrics": {
+                "RMSE": 5.487026003979369,
+                "MAE": 3.464023602233537,
+                "MAPE": 2.4466334944606944,
+                "R2": 0.8914111829415531
+            },
+            "path": "code/trainer/models/production/Ensemble_h1.pkl"
+        },
+        "h2": {
+            "rmse": 6.611319011287115,
+            "metrics": {
+                "RMSE": 6.611319011287115,
+                "MAE": 4.599137343672359,
+                "MAPE": 3.2112682629358824,
+                "R2": 0.842106250961686
+            },
+            "path": "code/trainer/models/production/Ensemble_h2.pkl"
+        },
+        "h3": {
+            "rmse": 7.123429640207213,
+            "metrics": {
+                "RMSE": 7.123429640207213,
+                "MAE": 5.136861912579958,
+                "MAPE": 3.5861993751867924,
+                "R2": 0.8167856272376955
+            },
+            "path": "code/trainer/models/production/Ensemble_h3.pkl"
+        },
+        "h4": {
+            "rmse": 7.639597981685769,
+            "metrics": {
+                "RMSE": 7.639597981685769,
+                "MAE": 5.472729014280459,
+                "MAPE": 3.801310336051928,
+                "R2": 0.7890265088651824
+            },
+            "path": "code/trainer/models/production/Ensemble_h4.pkl"
+        },
+        "h5": {
+            "rmse": 7.609094572282766,
+            "metrics": {
+                "RMSE": 7.609094572282766,
+                "MAE": 5.428533525154264,
+                "MAPE": 3.773639495206968,
+                "R2": 0.7902701052841719
+            },
+            "path": "code/trainer/models/production/Ensemble_h5.pkl"
+        },
+        "h6": {
+            "rmse": 8.014445331314484,
+            "metrics": {
+                "RMSE": 8.014445331314484,
+                "MAE": 5.718968011764028,
+                "MAPE": 3.946380658165085,
+                "R2": 0.7676928228139955
+            },
+            "path": "code/trainer/models/production/Ensemble_h6.pkl"
+        },
+        "h7": {
+            "rmse": 8.175873280909833,
+            "metrics": {
+                "RMSE": 8.175873280909833,
+                "MAE": 5.7501866347017705,
+                "MAPE": 3.9502328993673217,
+                "R2": 0.7591607033990547
+            },
+            "path": "code/trainer/models/production/Ensemble_h7.pkl"
+        }
+    }
+}

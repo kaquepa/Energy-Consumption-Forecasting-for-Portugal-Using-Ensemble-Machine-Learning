@@ -1,0 +1,135 @@
+{
+  "last_known": {
+    "date": "2026-01-06",
+    "consumption": 185.0
+  },
+  "predictions": {
+    "day_1": {
+      "date": "2026-01-07",
+      "predicted": 175.1,
+      "weather": {
+        "date": "2026-01-07",
+        "temperatura": 6.1,
+        "radiacao_solar": 4.74,
+        "humidade": 91,
+        "chuva": 1.2,
+        "vento": 4.4
+      },
+      "metrics": {
+        "RMSE": 5.487026003979369,
+        "MAE": 3.464023602233537,
+        "MAPE": 2.4466334944606944,
+        "R2": 0.8914111829415531
+      }
+    },
+    "day_2": {
+      "date": "2026-01-08",
+      "predicted": 171.64,
+      "weather": {
+        "date": "2026-01-08",
+        "temperatura": 7.6,
+        "radiacao_solar": 3.55,
+        "humidade": 97,
+        "chuva": 0.0,
+        "vento": 5.6
+      },
+      "metrics": {
+        "RMSE": 6.611319011287115,
+        "MAE": 4.599137343672359,
+        "MAPE": 3.2112682629358824,
+        "R2": 0.842106250961686
+      }
+    },
+    "day_3": {
+      "date": "2026-01-09",
+      "predicted": 168.43,
+      "weather": {
+        "date": "2026-01-09",
+        "temperatura": 11.4,
+        "radiacao_solar": 7.69,
+        "humidade": 86,
+        "chuva": 1.3,
+        "vento": 13.4
+      },
+      "metrics": {
+        "RMSE": 7.123429640207213,
+        "MAE": 5.136861912579958,
+        "MAPE": 3.5861993751867924,
+        "R2": 0.8167856272376955
+      }
+    },
+    "day_4": {
+      "date": "2026-01-10",
+      "predicted": 154.15,
+      "weather": {
+        "date": "2026-01-10",
+        "temperatura": 8.9,
+        "radiacao_solar": 8.64,
+        "humidade": 87,
+        "chuva": 0.0,
+        "vento": 8.5
+      },
+      "metrics": {
+        "RMSE": 7.639597981685769,
+        "MAE": 5.472729014280459,
+        "MAPE": 3.801310336051928,
+        "R2": 0.7890265088651824
+      }
+    },
+    "day_5": {
+      "date": "2026-01-11",
+      "predicted": 146.07,
+      "weather": {
+        "date": "2026-01-11",
+        "temperatura": 9.8,
+        "radiacao_solar": 6.17,
+        "humidade": 89,
+        "chuva": 0.0,
+        "vento": 8.2
+      },
+      "metrics": {
+        "RMSE": 7.609094572282766,
+        "MAE": 5.428533525154264,
+        "MAPE": 3.773639495206968,
+        "R2": 0.7902701052841719
+      }
+    },
+    "day_6": {
+      "date": "2026-01-12",
+      "predicted": 168.25,
+      "weather": {
+        "date": "2026-01-12",
+        "temperatura": 12.0,
+        "radiacao_solar": 3.37,
+        "humidade": 88,
+        "chuva": 0.3,
+        "vento": 18.0
+      },
+      "metrics": {
+        "RMSE": 8.014445331314484,
+        "MAE": 5.718968011764028,
+        "MAPE": 3.946380658165085,
+        "R2": 0.7676928228139955
+      }
+    },
+    "day_7": {
+      "date": "2026-01-13",
+      "predicted": 171.85,
+      "weather": {
+        "date": "2026-01-13",
+        "temperatura": 12.2,
+        "radiacao_solar": 3.09,
+        "humidade": 88,
+        "chuva": 15.3,
+        "vento": 21.7
+      },
+      "metrics": {
+        "RMSE": 8.175873280909833,
+        "MAE": 5.7501866347017705,
+        "MAPE": 3.9502328993673217,
+        "R2": 0.7591607033990547
+      }
+    }
+  },
+  "generated_at": "2026-01-07T11:15:47.548316"
+}
