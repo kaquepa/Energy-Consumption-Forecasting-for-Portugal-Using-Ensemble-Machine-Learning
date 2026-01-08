@@ -650,7 +650,6 @@ Duration: <1 second
 - [ ] Multi-country expansion (Spain, France)
 - [ ] Renewable generation forecasting (wind, solar, hydro)
 - [ ] Electricity price prediction
-- [ ] Mobile app (iOS, Android)
 
 ###  Future Research
 
