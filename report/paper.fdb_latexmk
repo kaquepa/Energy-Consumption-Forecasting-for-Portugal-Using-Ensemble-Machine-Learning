@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber paper"] 1767357124.00818 "paper.bcf" "paper.bbl" "paper" 1767786778.79951 0
-  "paper.bcf" 1767786778.74877 109112 4491998c3c7bbb100265a262062464c4 "pdflatex"
-  "references.bib" 1767357123.64529 3175 1cac35d7b047876a43e00cd3b53d6071 ""
+["biber paper"] 1767832070.39647 "paper.bcf" "paper.bbl" "paper" 1767832517.69841 0
+  "paper.bcf" 1767832517.64378 109172 956951f02a79856c32f53a9a870e81fb "pdflatex"
+  "references.bib" 1767826438.27894 4143 c6c3e6a90b9b26894fcddd797713dd03 ""
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1767786776.30125 "/Users/graciano/UA/Fundamentos de Aprendizagem Automática/2025/P2_ML2026_109557/report/paper.tex" "paper.pdf" "paper" 1767786778.79972 0
+["pdflatex"] 1767832515.1853 "/Users/graciano/UA/Fundamentos de Aprendizagem Automática/2025/P2_ML2026_109557/report/paper.tex" "paper.pdf" "paper" 1767832517.69863 0
   "../code/Exploratory_result/monthly_consumption.png" 1767779548.26153 49476 b04a6906906512fc30ac00b3bd5f314a ""
   "../code/Exploratory_result/outliers_analysis.png" 1767779548.89502 142863 cf7c87908bc30db966e947f7be60fa92 ""
   "../code/Exploratory_result/target_distribution.png" 1767779548.69185 161169 0cbc5dbb6248206366e6551736b9a1c9 ""
@@ -18,7 +18,7 @@
   "../images/outlier.png" 1767784731.89337 221826 daba8c22244567d17d77b7184391f4b9 ""
   "../images/weather.png" 1767784575.64749 405093 53d376b6fcdf8127e335ee467bc98621 ""
   "../images/week.png" 1767784921.42815 223355 471f055d77454e22f65d143d2ce01687 ""
-  "/Users/graciano/UA/Fundamentos de Aprendizagem Automática/2025/P2_ML2026_109557/report/paper.tex" 1767786758.75333 32714 1a3f877459a1d21cab9e7ec05a8d4859 ""
+  "/Users/graciano/UA/Fundamentos de Aprendizagem Automática/2025/P2_ML2026_109557/report/paper.tex" 1767832514.40844 49077 f1eeb2fccf9aecace751146a9c00f920 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -30,6 +30,7 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm" 1136768653 4480 10409ed8bab5aea9ec9a78028b763919 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm" 1136768653 6784 37b32cc10800b5afa030d935c393695a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1136768653 2124 2601a75482e9426d33db523edf23570a ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1136768653 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1136768653 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm" 1136768653 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmrc8t.tfm" 1136768653 16648 7e91c60ebf91b9c60e16ef52b3070f9c ""
@@ -74,6 +75,7 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/courier/pcrr8t.vf" 1136768653 2184 8475af1b9cfa983db5f46f5ed4b8f9f7 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf" 1136768653 2340 df9c920cc5688ebbf16a93f45ce7bdd3 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmbi8t.vf" 1136768653 2324 51908dae6e03953a90119973962f0e4d ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf" 1136768653 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf" 1136768653 2348 91706c542228501c410c266421fbe30c ""
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmrc8t.vf" 1136768653 3608 78e4c999d9e69f03f448158d01821741 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf" 1136768653 2328 6cd7df782b09b29cfc4d93e55b6b9a59 ""
@@ -133,15 +135,16 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd" 1137110629 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd" 1137110629 798 d5895e9edc628f2be019beb2c0ec66df ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ptm.fd" 1137110629 774 61d7da1e9f9e74989b196d147e623736 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd" 1137110629 619 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1760880037 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1760879988 3345739 6e693b3b70f7a26ab78ae738a69f4b42 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "paper.aux" 1767786778.74734 12706 41f022aeb7365faa814a3e09ed6d7b94 "pdflatex"
-  "paper.bbl" 1767357125.09521 18358 4d555e06cc222381316e0834468a33ab "biber paper"
-  "paper.run.xml" 1767786778.74923 2409 5db5b76ceb6020c2da4796d75be850ef "pdflatex"
-  "paper.tex" 1767786758.75333 32714 1a3f877459a1d21cab9e7ec05a8d4859 ""
+  "paper.aux" 1767832517.64234 10763 5d690f8dc198b0323d766211b89c0a73 "pdflatex"
+  "paper.bbl" 1767832072.16287 23913 508f28467213a2f74d6ea406cbd3dc31 "biber paper"
+  "paper.run.xml" 1767832517.64424 2409 5db5b76ceb6020c2da4796d75be850ef "pdflatex"
+  "paper.tex" 1767832514.40844 49077 f1eeb2fccf9aecace751146a9c00f920 ""
   (generated)
   "paper.aux"
   "paper.bcf"

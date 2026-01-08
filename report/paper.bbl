@@ -449,6 +449,137 @@
       \field{pages}{785\bibrangedash 794}
       \range{pages}{10}
     \endentry
+    \entry{lim2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=ae79ceb303df628c5461fb3fda3f01e2}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=39e278c8ef57240e0394f46448369296}{%
+           family={Ar{ı}k},
+           familyi={A\bibinitperiod},
+           given={Sercan\bibnamedelima Ö},
+           giveni={S\bibinitperiod\bibinitdelim Ö\bibinitperiod}}}%
+        {{hash=6268f5aa3e045416a89804df1d8bef4d}{%
+           family={Loeff},
+           familyi={L\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f769e681ea0c0a3a6ba5a36ddd18c253}{%
+           family={Pfister},
+           familyi={P\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{91f35d17764be4acab630afb9a763287}
+      \strng{fullhash}{c5a2af1517d19596ddb0aa39fd4610ad}
+      \strng{fullhashraw}{c5a2af1517d19596ddb0aa39fd4610ad}
+      \strng{bibnamehash}{c5a2af1517d19596ddb0aa39fd4610ad}
+      \strng{authorbibnamehash}{c5a2af1517d19596ddb0aa39fd4610ad}
+      \strng{authornamehash}{91f35d17764be4acab630afb9a763287}
+      \strng{authorfullhash}{c5a2af1517d19596ddb0aa39fd4610ad}
+      \strng{authorfullhashraw}{c5a2af1517d19596ddb0aa39fd4610ad}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Forecasting}
+      \field{number}{4}
+      \field{title}{Temporal fusion transformers for interpretable multi-horizon time series forecasting}
+      \field{volume}{37}
+      \field{year}{2021}
+      \field{pages}{1748\bibrangedash 1764}
+      \range{pages}{17}
+    \endentry
+    \entry{oreshkin2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=ec512581d79ac7af6281fd4b72c40097}{%
+           family={Oreshkin},
+           familyi={O\bibinitperiod},
+           given={Boris\bibnamedelima N},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=b9da3135b40d6af78eb42403404a5c11}{%
+           family={Carpov},
+           familyi={C\bibinitperiod},
+           given={Dmitri},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d87069194d85b18ffb5b74737da91a0d}{%
+           family={Chapados},
+           familyi={C\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1c4956fd77733347830355856686a73}
+      \strng{fullhash}{bc5c1ffccae8c6978ddc8357b7191b18}
+      \strng{fullhashraw}{bc5c1ffccae8c6978ddc8357b7191b18}
+      \strng{bibnamehash}{bc5c1ffccae8c6978ddc8357b7191b18}
+      \strng{authorbibnamehash}{bc5c1ffccae8c6978ddc8357b7191b18}
+      \strng{authornamehash}{d1c4956fd77733347830355856686a73}
+      \strng{authorfullhash}{bc5c1ffccae8c6978ddc8357b7191b18}
+      \strng{authorfullhashraw}{bc5c1ffccae8c6978ddc8357b7191b18}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1905.10437}
+      \field{title}{N-BEATS: Neural basis expansion analysis for interpretable time series forecasting}
+      \field{year}{2019}
+    \endentry
+    \entry{akiba2019}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=2939d0d5b491018f7cc7812609071a79}{%
+           family={Akiba},
+           familyi={A\bibinitperiod},
+           given={Takuya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=92311081bb41fd01eb1ce06f61805909}{%
+           family={Sano},
+           familyi={S\bibinitperiod},
+           given={Shotaro},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a841fb8471f00b147fdd8954fb01c03f}{%
+           family={Yanase},
+           familyi={Y\bibinitperiod},
+           given={Toshihiko},
+           giveni={T\bibinitperiod}}}%
+        {{hash=db73c7d77457602e9a75d75bbe181aba}{%
+           family={Ohta},
+           familyi={O\bibinitperiod},
+           given={Takeru},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d18b784f7f35111bc05bcbd245a34ce7}{%
+           family={Koyama},
+           familyi={K\bibinitperiod},
+           given={Masanori},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0da4c5b8107cb83a6bd4ba0c9b294621}
+      \strng{fullhash}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{fullhashraw}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{bibnamehash}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{authorbibnamehash}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{authornamehash}{0da4c5b8107cb83a6bd4ba0c9b294621}
+      \strng{authorfullhash}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{authorfullhashraw}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery \& data mining}
+      \field{title}{Optuna: A next-generation hyperparameter optimization framework}
+      \field{year}{2019}
+      \field{pages}{2623\bibrangedash 2631}
+      \range{pages}{9}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
